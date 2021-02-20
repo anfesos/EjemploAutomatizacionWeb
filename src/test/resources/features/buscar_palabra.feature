@@ -19,4 +19,3 @@ Característica: Realizar busqueda de una palabra por medio de google
       | Colombia |
       | Japon    |
       | Vikingos |
-   
